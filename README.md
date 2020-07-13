@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### INTEREST
 
 - 😄 These days, REACT.js  
